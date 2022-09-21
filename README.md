@@ -1,6 +1,6 @@
-## 개발 공부하는 휴학생
+## 개발 공부하는 재학생
 
-단국대학교 소프트웨어학과 휴학 중
+단국대학교 소프트웨어학과 재학 중
 
 [나의 Notion](https://khw970421.notion.site/Kim-Hyoung-wook-f2c4dacbf8434f9fa2030207a62590e1)
 
