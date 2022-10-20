@@ -1,5 +1,5 @@
 ## 🕛 Now
-단국대학교 소프트웨어학과 재학 중
+단국대학교 소프트웨어학과 재학 중 (4학년 2학기)
 
 ## 📔 Record
 [Notion-Profile](https://khw970421.notion.site/Kim-Hyoung-wook-f2c4dacbf8434f9fa2030207a62590e1)<br/>
@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 ## ✏️ Studying tech stack 
-
+<!--  링크 /badge/-이름-배경색?style=for-the-badge&logo=이름&logoColor=텍스트색깔-->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff) -->
 ![Next.js](https://img.shields.io/badge/-Nextjs-222222?style=for-the-badge&logo=Next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+## 📊 Stats
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=khw970421&show_icons=true&theme=dracula&hide=stars,issues)
