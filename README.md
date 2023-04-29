@@ -1,5 +1,5 @@
 ## 🕛 Now
-[아하랩스](https://ahha.ai/) 프론트엔드 개발자 (2023.02 ~ ing)
+
 
 ## 📔 Record
 [Notion-Profile](https://khw970421.notion.site/Kim-Hyoung-wook-f2c4dacbf8434f9fa2030207a62590e1)<br/>
